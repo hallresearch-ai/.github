@@ -1,4 +1,3 @@
-```markdown
 # HallResearch.ai Library
 
 The **HallResearch.ai Library** is a curated public collection of resources for understanding, governing, assessing, and implementing artificial intelligence systems in the world.
