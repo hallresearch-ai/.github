@@ -12,7 +12,6 @@ Maintenance and curation are sponsored by [HallResearch.ai](https://www.hallrese
 
 | Section | Description |
 |---|---|
-| [Library Map](#library-map) | The two main branches of the HallResearch.ai Library |
 | [Main Branches](#main-branches) | Governance/policy resources and assessment/implementation resources |
 | [Supporting Project Repositories](#supporting-project-repositories) | Public examples, prototypes, notebooks, and reference tools connected to the Library |
 | [How to Use the Library](#how-to-use-the-library) | Guidance for choosing the right starting point |
@@ -20,19 +19,6 @@ Maintenance and curation are sponsored by [HallResearch.ai](https://www.hallrese
 | [Legacy Note](#legacy-note) | Relationship to the original AMLI repository |
 | [Maintenance Note](#maintenance-note) | Notes on upkeep, corrections, and additions |
 | [Suggested Citation](#suggested-citation) | Suggested citation format |
-
----
-
-## Library Map
-
-The HallResearch.ai Library is organized around two main branches.
-
-| Branch | Repository | Use This Branch For |
-|---|---|---|
-| **AI Governance and Policy Resources** | [hallresearch-ai/ai_governance_policy_resources](https://github.com/hallresearch-ai/ai_governance_policy_resources) | Policy, law, governance, institutions, incidents, accountability, critique |
-| **AI Assessment and Implementation Resources** | [hallresearch-ai/ai_assessment_implementation_resources](https://github.com/hallresearch-ai/ai_assessment_implementation_resources) | Assessment, evaluation, implementation, tooling, auditing, education |
-
-Supporting repositories provide examples, prototypes, training materials, and reference resources that sit beneath these two main branches.
 
 ---
 
@@ -147,13 +133,15 @@ Future branches and supporting repositories may be added as the Library develops
 
 ## Legacy Note
 
-The HallResearch.ai Library began as a reorganization and expansion of the original *Awesome Machine Learning Interpretability* repository. The new structure reflects a broader scope: not only interpretability, but the wider ecosystem of resources needed to study, assess, govern, and responsibly deploy AI systems.
+The HallResearch.ai Library began as a reorganization and expansion of the original [*Awesome Machine Learning Interpretability*](https://github.com/jphall663/awesome-machine-learning-interpretability) repository. The new structure reflects a broader scope: not only interpretability, but the wider ecosystem of resources needed to study, assess, govern, and responsibly deploy AI systems.
 
 ---
 
 ## Maintenance Note
 
 This Library is maintained as an ongoing public resource. Links may change, documents may be superseded, and new resources will be added over time.
+
+The Library is updated through a combination of manual curation, direct editing, and assistance from ChatGPT 5.5. AI-assisted updates are reviewed and edited before publication, but readers should still treat the Library as a living resource and report broken links, outdated materials, or other errors when they find them.
 
 Suggestions, corrections, and additions are welcome through the relevant repository’s issue tracker or pull request process.
 
