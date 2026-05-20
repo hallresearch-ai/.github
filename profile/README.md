@@ -1,5 +1,3 @@
-I based this on the two current split READMEs: the governance/policy branch and the assessment/implementation branch.   Here is copy-ready markdown for the master landing page:
-
 ```markdown
 # HallResearch.ai Library
 
