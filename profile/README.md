@@ -149,4 +149,32 @@ Suggestions, corrections, and additions are welcome through the relevant reposit
 
 ## Suggested Citation
 
-HallResearch.ai. “HallResearch.ai Library.” GitHub, HallResearch.ai, https://github.com/hallresearch-ai/.
+If you use the HallResearch.ai Library in research, teaching, journalism, policy work, or other public-facing materials, please cite it using one of the formats below.
+
+### MLA
+
+Hall, Patrick, and Daniel Atherton. “HallResearch.ai Library.” *HallResearch.ai*, https://hallresearch.ai/. Accessed 26 May 2026.
+
+### APA
+
+Hall, P., & Atherton, D. (2026). *HallResearch.ai Library*. HallResearch.ai. https://hallresearch.ai/
+
+### Chicago
+
+Hall, Patrick, and Daniel Atherton. “HallResearch.ai Library.” HallResearch.ai. Accessed May 26, 2026. https://hallresearch.ai/.
+
+### ACM
+
+Patrick Hall and Daniel Atherton. 2026. HallResearch.ai Library. HallResearch.ai. Retrieved May 26, 2026 from https://hallresearch.ai/
+
+### BibTeX
+
+```bibtex
+@misc{hall_atherton_hallresearch_ai_library_2026,
+  author = {Hall, Patrick and Atherton, Daniel},
+  title = {HallResearch.ai Library},
+  year = {2026},
+  publisher = {HallResearch.ai},
+  url = {https://hallresearch.ai/},
+  note = {Accessed: 2026-05-26}
+}
