@@ -149,25 +149,27 @@ Suggestions, corrections, and additions are welcome through the relevant reposit
 
 ## Suggested Citation
 
-If you use the HallResearch.ai Library in research, teaching, journalism, policy work, or other public-facing materials, please cite it using one of the formats below.
+If you use the HallResearch.ai Library in research, teaching, journalism, policy work, or other public-facing materials, please cite either the main Library or the specific branch you used. Below are examples of how you may cite the library (just update the access date):
 
-### MLA
+### Citing the Main Library
 
-Hall, Patrick, and Daniel Atherton. “HallResearch.ai Library.” *HallResearch.ai*, https://hallresearch.ai/. Accessed 26 May 2026.
+#### MLA
 
-### APA
+Hall, Patrick, and Daniel Atherton. “HallResearch.ai Library.” *HallResearch.ai*, 2026, https://hallresearch.ai/. Accessed 26 May 2026.
+
+#### APA
 
 Hall, P., & Atherton, D. (2026). *HallResearch.ai Library*. HallResearch.ai. https://hallresearch.ai/
 
-### Chicago
+#### Chicago
 
 Hall, Patrick, and Daniel Atherton. “HallResearch.ai Library.” HallResearch.ai. Accessed May 26, 2026. https://hallresearch.ai/.
 
-### ACM
+#### ACM
 
 Patrick Hall and Daniel Atherton. 2026. HallResearch.ai Library. HallResearch.ai. Retrieved May 26, 2026 from https://hallresearch.ai/
 
-### BibTeX
+#### BibTeX
 
 ```bibtex
 @misc{hall_atherton_hallresearch_ai_library_2026,
@@ -178,3 +180,70 @@ Patrick Hall and Daniel Atherton. 2026. HallResearch.ai Library. HallResearch.ai
   url = {https://hallresearch.ai/},
   note = {Accessed: 2026-05-26}
 }
+```
+
+### Citing a Library Branch
+
+If you used one of the Library’s GitHub branches directly, cite the specific branch rather than only citing the main Library. For example, here is how you can cite either of the two main branches:
+
+#### AI Governance and Policy Resources
+
+##### MLA
+
+Hall, Patrick, and Daniel Atherton. “HallResearch.ai Library of AI Governance and Policy Resources.” *GitHub*, HallResearch.ai, 2026, https://github.com/hallresearch-ai/ai_governance_policy_resources. Accessed 26 May 2026.
+
+##### APA
+
+Hall, P., & Atherton, D. (2026). *HallResearch.ai Library of AI Governance and Policy Resources*. HallResearch.ai. https://github.com/hallresearch-ai/ai_governance_policy_resources
+
+##### Chicago
+
+Hall, Patrick, and Daniel Atherton. “HallResearch.ai Library of AI Governance and Policy Resources.” GitHub. HallResearch.ai. Accessed May 26, 2026. https://github.com/hallresearch-ai/ai_governance_policy_resources.
+
+##### ACM
+
+Patrick Hall and Daniel Atherton. 2026. HallResearch.ai Library of AI Governance and Policy Resources. HallResearch.ai. Retrieved May 26, 2026 from https://github.com/hallresearch-ai/ai_governance_policy_resources
+
+##### BibTeX
+
+```bibtex
+@misc{hall_atherton_ai_governance_policy_resources_2026,
+  author = {Hall, Patrick and Atherton, Daniel},
+  title = {HallResearch.ai Library of AI Governance and Policy Resources},
+  year = {2026},
+  publisher = {HallResearch.ai},
+  url = {https://github.com/hallresearch-ai/ai_governance_policy_resources},
+  note = {Accessed: 2026-05-26}
+}
+```
+
+#### AI Assessment and Implementation Resources
+
+##### MLA
+
+Hall, Patrick, and Daniel Atherton. “HallResearch.ai Library of AI Assessment and Implementation Resources.” *GitHub*, HallResearch.ai, 2026, https://github.com/hallresearch-ai/ai_assessment_implementation_resources. Accessed 26 May 2026.
+
+##### APA
+
+Hall, P., & Atherton, D. (2026). *HallResearch.ai Library of AI Assessment and Implementation Resources*. HallResearch.ai. https://github.com/hallresearch-ai/ai_assessment_implementation_resources
+
+##### Chicago
+
+Hall, Patrick, and Daniel Atherton. “HallResearch.ai Library of AI Assessment and Implementation Resources.” GitHub. HallResearch.ai. Accessed May 26, 2026. https://github.com/hallresearch-ai/ai_assessment_implementation_resources.
+
+##### ACM
+
+Patrick Hall and Daniel Atherton. 2026. HallResearch.ai Library of AI Assessment and Implementation Resources. HallResearch.ai. Retrieved May 26, 2026 from https://github.com/hallresearch-ai/ai_assessment_implementation_resources
+
+##### BibTeX
+
+```bibtex
+@misc{hall_atherton_ai_assessment_implementation_resources_2026,
+  author = {Hall, Patrick and Atherton, Daniel},
+  title = {HallResearch.ai Library of AI Assessment and Implementation Resources},
+  year = {2026},
+  publisher = {HallResearch.ai},
+  url = {https://github.com/hallresearch-ai/ai_assessment_implementation_resources},
+  note = {Accessed: 2026-05-26}
+}
+```
