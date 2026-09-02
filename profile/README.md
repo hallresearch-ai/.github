@@ -2,7 +2,7 @@
 
 The **HallResearch.ai Library** is a curated public collection of resources for understanding, governing, assessing, and implementing artificial intelligence systems in the world.
 
-The Library grew out of the original [*Awesome Machine Learning Interpretability*](https://github.com/jphall663/awesome-machine-learning-interpretability) repository and now serves as a broader research library. Its two main branches are maintained as separate GitHub repositories so that each collection remains easier to navigate, update, and cite.
+The Library grew out of the original [*Awesome Machine Learning Interpretability*](https://github.com/jphall663/awesome-machine-learning-interpretability) repository and now serves as a broader research library. Its three main branches are maintained as separate GitHub repositories: two broad resource collections and a companion research-guide branch that creates curated pathways through selected Library materials.
 
 Maintenance and curation are sponsored by [HallResearch.ai](https://www.hallresearch.ai).
 
@@ -12,7 +12,7 @@ Maintenance and curation are sponsored by [HallResearch.ai](https://www.hallrese
 
 | Section | Description |
 |---|---|
-| [Main Branches](#main-branches) | Governance/policy resources and assessment/implementation resources |
+| [Main Branches](#main-branches) | Governance/policy resources, assessment/implementation resources, and curated AI Research Guides |
 | [Supporting Project Repositories](#supporting-project-repositories) | Public examples, prototypes, notebooks, and reference tools connected to the Library |
 | [How to Use the Library](#how-to-use-the-library) | Guidance for choosing the right starting point |
 | [Library Philosophy](#library-philosophy) | The purpose and scope of the collection |
@@ -69,9 +69,34 @@ Use this branch when you are asking questions such as:
 
 ---
 
+### [AI Research Guides](https://github.com/hallresearch-ai/ai_research_guides)
+
+This branch provides curated, topic-focused pathways through the broader HallResearch.ai Library. Rather than attempting to reproduce the full collections, each Research Guide brings together a deliberately selected source corpus, orientation material, and useful research questions around a specific problem in AI governance, policy, assessment, or implementation.
+
+The initial guide collection is currently under construction and will include topics such as:
+
+- Governing AI agents
+- Adversarial testing for secure AI systems
+- Evidence for AI performance and assurance
+- Learning from AI failures
+- AI risk management and governance
+- AI and labor
+
+Use this branch when you are asking questions such as:
+
+- Where should I start if I want to understand a specific AI governance or assessment problem?
+- Which Library sources are most useful when read together around a particular question?
+- Is there a curated research environment for exploring a topic rather than browsing the full Library?
+- What questions should I ask when approaching an unfamiliar AI policy, safety, governance, or implementation issue?
+
+> [!NOTE]
+> **AI Research Guides is under active development.** Guide pages, source manifests, and public interactive notebook access are being prepared for release.
+
+---
+
 ## Supporting Project Repositories
 
-The repositories below are public HallResearch.ai projects that support the Library’s teaching, demonstration, prototyping, and reference functions. They are not separate Library branches. Instead, they should be understood as companion materials beneath the two main branches above.
+The repositories below are public HallResearch.ai projects that support the Library’s teaching, demonstration, prototyping, and reference functions. They are not separate Library branches. Instead, they should be understood as companion materials alongside the three main branches above.
 
 ### Assessment, Testing, and Implementation Examples
 
@@ -95,15 +120,16 @@ The repositories below are public HallResearch.ai projects that support the Libr
 
 ## How to Use the Library
 
-The two main branches overlap in places because AI governance and AI implementation are not cleanly separable. A policy document may imply technical assessment requirements; an auditing framework may have legal or institutional consequences. The split is meant to help readers find a useful starting point, not to enforce a rigid boundary.
+The Library’s branches overlap in places because AI governance and AI implementation are not cleanly separable. A policy document may imply technical assessment requirements; an auditing framework may have legal or institutional consequences. The structure is meant to help readers find a useful starting point, not to enforce rigid boundaries.
 
 As a general rule:
 
 - Start with **AI Governance and Policy Resources** if your question concerns institutions, law, regulation, public policy, accountability, or social impact.
 - Start with **AI Assessment and Implementation Resources** if your question concerns evaluation, implementation, auditing, testing, tooling, or technical practice.
+- Start with **AI Research Guides** if you want a smaller, curated pathway through selected Library materials organized around a specific research question or topic.
 - Use the **Supporting Project Repositories** when you want examples, prototypes, notebooks, training materials, or reference files connected to the broader Library.
 
-Readers working on responsible AI, trustworthy AI, AI safety, AI governance, AI accountability, AI incident analysis, or machine learning assessment may find themselves moving between both branches.
+Readers working on responsible AI, trustworthy AI, AI safety, AI governance, AI accountability, AI incident analysis, or machine learning assessment may find themselves moving among all three branches.
 
 ---
 
@@ -111,7 +137,7 @@ Readers working on responsible AI, trustworthy AI, AI safety, AI governance, AI 
 
 The HallResearch.ai Library is designed as a working research collection rather than a static bibliography. It emphasizes resources that help readers understand how AI systems are built, evaluated, deployed, governed, challenged, and experienced.
 
-The collection is intentionally broad. It includes technical materials, policy documents, legal resources, institutional guidance, critical research, community frameworks, and practical implementation resources. The purpose is not to settle debates about artificial intelligence, but to make the relevant terrain easier to navigate.
+The collection is intentionally broad. It includes technical materials, policy documents, legal resources, institutional guidance, critical research, community frameworks, and practical implementation resources. The AI Research Guides add a more selective layer by organizing subsets of these materials around focused questions and use cases. The purpose is not to settle debates about artificial intelligence, but to make the relevant terrain easier to navigate.
 
 The Library is curated with attention to source quality, institutional context, usefulness, and the practical needs of researchers, students, policymakers, journalists, technologists, and civil society actors.
 
@@ -125,6 +151,7 @@ This top-level page is the main public entry point for the HallResearch.ai Libra
 |---|---|---|
 | Main Library Branch | Governance, policy, law, accountability, institutions, and social impact | [ai_governance_policy_resources](https://github.com/hallresearch-ai/ai_governance_policy_resources) |
 | Main Library Branch | Assessment, implementation, evaluation, tooling, auditing, and education | [ai_assessment_implementation_resources](https://github.com/hallresearch-ai/ai_assessment_implementation_resources) |
+| Main Library Branch | Curated, topic-focused pathways through selected resources from across the Library | [ai_research_guides](https://github.com/hallresearch-ai/ai_research_guides) |
 | Supporting Project Repository | Examples, prototypes, notebooks, documentation models, and reference files | [basic-ml-security](https://github.com/hallresearch-ai/basic-ml-security), [basic-xai-example](https://github.com/hallresearch-ai/basic-xai-example), [basic-model-testing-red-teaming-user-testing-example](https://github.com/hallresearch-ai/basic-model-testing-red-teaming-user-testing-example), [basic-explainable-ml-bias-management-example](https://github.com/hallresearch-ai/basic-explainable-ml-bias-management-example), [basic-ml-eval-example](https://github.com/hallresearch-ai/basic-ml-eval-example), [ai-rmf-rag-prototype](https://github.com/hallresearch-ai/ai-rmf-rag-prototype), [example-system-card](https://github.com/hallresearch-ai/example-system-card), [bib-lib](https://github.com/hallresearch-ai/bib-lib) |
 
 Future branches and supporting repositories may be added as the Library develops.
@@ -184,7 +211,7 @@ Patrick Hall and Daniel Atherton. 2026. HallResearch.ai Library. HallResearch.ai
 
 ### Citing a Library Branch
 
-If you used one of the Library’s GitHub branches directly, cite the specific branch rather than only citing the main Library. For example, here is how you can cite either of the two main branches:
+If you used one of the Library’s GitHub branches directly, cite the specific branch rather than only citing the main Library. Below are examples for the three main branches:
 
 #### AI Governance and Policy Resources
 
@@ -247,3 +274,37 @@ Patrick Hall and Daniel Atherton. 2026. HallResearch.ai Library of AI Assessment
   note = {Accessed: 2026-05-26}
 }
 ```
+
+---
+
+#### AI Research Guides
+
+##### MLA
+
+Hall, Patrick, and Daniel Atherton. “HallResearch.ai AI Research Guides.” *GitHub*, HallResearch.ai, 2026, https://github.com/hallresearch-ai/ai_research_guides. Accessed 2 September 2026.
+
+##### APA
+
+Hall, P., & Atherton, D. (2026). *HallResearch.ai AI Research Guides*. HallResearch.ai. https://github.com/hallresearch-ai/ai_research_guides
+
+##### Chicago
+
+Hall, Patrick, and Daniel Atherton. “HallResearch.ai AI Research Guides.” GitHub. HallResearch.ai. Accessed September 2, 2026. https://github.com/hallresearch-ai/ai_research_guides.
+
+##### ACM
+
+Patrick Hall and Daniel Atherton. 2026. HallResearch.ai AI Research Guides. HallResearch.ai. Retrieved September 2, 2026 from https://github.com/hallresearch-ai/ai_research_guides
+
+##### BibTeX
+
+```bibtex
+@misc{hall_atherton_ai_research_guides_2026,
+  author = {Hall, Patrick and Atherton, Daniel},
+  title = {HallResearch.ai AI Research Guides},
+  year = {2026},
+  publisher = {HallResearch.ai},
+  url = {https://github.com/hallresearch-ai/ai_research_guides},
+  note = {Accessed: 2026-09-02}
+}
+```
+
