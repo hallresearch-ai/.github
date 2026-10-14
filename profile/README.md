@@ -49,23 +49,23 @@ Practical resources for evaluating, testing, documenting, and implementing respo
 
 ---
 
-### 03 · [AI Research Guides](https://github.com/hallresearch-ai/ai_research_guides)
+### 03 · AI Research Guides — Coming soon
 
-Focused pathways through selected Library materials, organized around specific questions in AI governance, policy, assessment, and implementation.
+The forthcoming Research Guides will provide focused pathways through selected Library materials, organized around specific questions in AI governance, policy, assessment, and implementation.
 
-> [!NOTE]
-> The initial guide collection is under construction.
+> [!IMPORTANT]
+> **The AI Research Guides are under construction and have not yet been released.** The topics below preview the planned initial collection. Guide content and public access will be added as each guide is completed.
 
-| Guide | Research focus |
-|---|---|
-| [Governing AI Agents](https://hallresearch-ai.github.io/guides/governing-ai-agents.html) | Autonomy, permissions, oversight, security, memory, multi-agent behavior, and accountability |
-| [Adversarial Testing for Secure AI Systems](https://hallresearch-ai.github.io/guides/adversarial-testing.html) | Red teaming, prompt injection, security evaluation, and adversarial methods |
-| [Evidence for AI Performance](https://hallresearch-ai.github.io/guides/evidence-ai-performance.html) | Credible evidence for claims about performance, reliability, evaluation, and safety |
-| [Learning from AI Failures](https://hallresearch-ai.github.io/guides/learning-from-ai-failures.html) | Lessons from incidents, breakdowns, organizational decisions, and recurring risks |
-| [AI Risk Management and Governance](https://hallresearch-ai.github.io/guides/ai-risk-management.html) | Inventories, risk processes, controls, documentation, oversight, and ongoing management |
-| [AI and Labor Resources](https://hallresearch-ai.github.io/guides/ai-and-labor.html) | Work, employment, workplace organization, worker power, productivity, and labor policy |
+| Planned guide | Research focus | Status |
+|---|---|---|
+| Governing AI Agents | Autonomy, permissions, oversight, security, memory, multi-agent behavior, and accountability | Coming soon |
+| Adversarial Testing for Secure AI Systems | Red teaming, prompt injection, security evaluation, and adversarial methods | Coming soon |
+| Evidence for AI Performance | Credible evidence for claims about performance, reliability, evaluation, and safety | Coming soon |
+| Learning from AI Failures | Lessons from incidents, breakdowns, organizational decisions, and recurring risks | Coming soon |
+| AI Risk Management and Governance | Inventories, risk processes, controls, documentation, oversight, and ongoing management | Coming soon |
+| AI and Labor Resources | Work, employment, workplace organization, worker power, productivity, and labor policy | Coming soon |
 
-[View the Research Guide catalog →](https://hallresearch-ai.github.io/guides/)
+[Preview the planned Research Guide catalog →](https://hallresearch-ai.github.io/guides/)
 
 ---
 
@@ -75,7 +75,7 @@ The collections overlap because AI governance and AI implementation are not clea
 
 - Start with **AI Governance and Policy Resources** for institutions, law, regulation, public policy, accountability, or social impact.
 - Start with **AI Assessment and Implementation Resources** for evaluation, implementation, auditing, testing, tooling, or technical practice.
-- Start with **AI Research Guides** for a smaller, curated pathway organized around a focused research question.
+- When released, use **AI Research Guides** for a smaller, curated pathway organized around a focused research question.
 
 Readers working on responsible AI, trustworthy AI, AI safety, governance, accountability, incident analysis, or machine-learning assessment may move among all three collections.
 
